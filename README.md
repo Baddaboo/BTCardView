@@ -28,6 +28,7 @@ if(scrollView.contentOffset.y < 0){
     else if(scrollView.contentOffset.y > scrollView.contentSize.height - scrollView.frame.size.height){
         [self.cardView setCardSpacing:self.baseSpacing*((self.cardView.frame.origin.y-scrollView.contentOffset.y)/self.cardView.frame.origin.y)];
     }
+}
 ```
 
 ## TODO

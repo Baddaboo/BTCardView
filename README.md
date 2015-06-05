@@ -1,7 +1,7 @@
 # BTCardView
 A simple random-access, stacked-card iOS view.
 
-![alt text](http://gifyu.com/images/2015-06-0419_47_25.gif)
+![alt text](http://gifyu.com/images/2015-06-0419_50_27.gif)
 
 In this project, I created a simple stacked-card view using the maximizable view (also in my repo) to show how extensive and properly it was created. I also added a little scrolling bounce effect purely out of boredom during my school's finals week. There are still a few bugs and improvements I'm planning to implement, but for the most part, I hope you'll enjoy it almost as much as I have!
 

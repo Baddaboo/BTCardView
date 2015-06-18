@@ -3,7 +3,7 @@ A simple random-access, stacked-card iOS view.
 
 ![alt text](http://gifyu.com/images/2015-06-0421_22_01.gif)
 
-In this project, I created a simple stacked-card view using the maximizable view (also in my repo) to show how extensive and properly it was created. I also added a little scrolling bounce effect purely out of boredom during my school's finals week. There are still a few bugs and improvements I'm planning to implement, but for the most part, I hope you'll enjoy it almost as much as I have!
+In this project, I created a simple stacked-card view using the maximizable view (also in my repo). I also added a little scrolling bounce effect purely out of boredom during my school's finals week. There are still a few bugs and improvements I'm planning to implement, but for the most part, I hope you'll enjoy it as much as I had making it!
 
 ## Installation
 Simply add the BTCardView Objective-C class into an existing project. Views can be generated programatically, or through Interface Builder and configured accordingly, but must be added using the delegate functions.
